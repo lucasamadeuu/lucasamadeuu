@@ -1,8 +1,7 @@
 ## Olá, me chamo Lucas Amadeu!
 ### Bem-vindo ao meu perfil GitHub 👋
 
-🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-
+🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 📫 Como entrar em contato comigo: lucas.amadeu.soares@gmail.com
 
 ### Ferramentas e tecnologias
