@@ -1,11 +1,14 @@
 <h1 align="center">Olá me chamo Lucas Amadeu
-<h4 align="center"> Bem-vindo ao meu perfil GitHub 👋
+<h4 align="center"> Bem-vindo ao meu perfil GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
 
-### Sobre Mim
+<h2 align="left">👨🏻‍💻 Sobre mim:</h2>
+  
   - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
-  - 📫 Como entrar em contato comigo: lucas.amadeu.soares@gmail.com
+  - 📫 Contato: lucas.amadeu.soares@gmail.com
 
-### Ferramentas e tecnologias
+  
+<h2 align="left">:hammer_and_wrench: Tecnologias e ferramentas:</h2>
+  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
 
 <div>
