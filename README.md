@@ -2,10 +2,11 @@
 ### Bem-vindo ao meu perfil GitHub 👋
 
 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+
 📫 Como entrar em contato comigo: lucas.amadeu.soares@gmail.com
 
 ### Ferramentas e tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" background-color="gray"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
 <!--
 **lucasamadeuu/lucasamadeuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
