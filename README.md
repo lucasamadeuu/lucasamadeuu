@@ -2,8 +2,8 @@
 <h4 align="center"> Bem-vindo ao meu perfil GitHub 👋
 
 ### Sobre Mim
-  - [🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas]
-  - [📫 Como entrar em contato comigo: lucas.amadeu.soares@gmail.com]
+  - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+  - 📫 Como entrar em contato comigo: lucas.amadeu.soares@gmail.com
 
 ### Ferramentas e tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
