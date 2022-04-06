@@ -18,7 +18,7 @@
   <table>
   <tbody>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/> <h3> HTML </h3></td>
+      <td><h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  HTML </h3></td>
     </tr>
     <tr></tr> <!-- hide gray row -->
     <tr>
