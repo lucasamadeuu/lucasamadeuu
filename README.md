@@ -10,11 +10,31 @@
   
 <h2 align="left">:hammer_and_wrench: Tecnologias e ferramentas:</h2>
 
-  <tr><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
- </tr>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
+  
+  
+  <table>
+  <thead>
+    <tr>
+      <th>📈 Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=1&open"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=2&open"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/>></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://status.nmoo.dev/top-tracks?i=3&open"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <h2 align="left">GitHub Stats:</h2>  
 <div>
