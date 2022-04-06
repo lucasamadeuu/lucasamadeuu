@@ -4,6 +4,7 @@
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
   
   - 🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+  🚀 Sempre procurando evoluir no meio de Desenvolvimento
   - 📫 Contato: lucas.amadeu.soares@gmail.com
 
   
