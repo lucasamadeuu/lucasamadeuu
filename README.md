@@ -1,5 +1,5 @@
 <h1 align="center">Olá me chamo Lucas Amadeu
-<h4 align="center"> Bem-vindo ao meu perfil GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="10"><br>
+<h4 align="center"> Bem-vindo ao meu perfil GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="15"><br>
 
 <h2 align="left">👨🏻‍💻 Sobre mim:</h2>
   
@@ -10,26 +10,12 @@
   
 <h2 align="left">:hammer_and_wrench: Tecnologias e ferramentas:</h2>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/>
-  
-  
-  <table>
-  <tbody>
-    <tr>
-      <td><h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/>  HTML </h3></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="30" height="30"/></td>
-    </tr>
-    <tr></tr> <!-- hide gray row -->
-    <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"  width="30" height="30"/></td>
-    </tr>
-  </tbody>
-</table>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30"/></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30"/></code>
+          
 
 <h2 align="left">GitHub Stats:</h2>  
 <div>
