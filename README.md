@@ -1,6 +1,6 @@
 ## Olá, me chamo Lucas Amadeu!
-### Bme-vindo ao meu perfil GitHub 👋
-##- 🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
+### Bem-vindo ao meu perfil GitHub 👋
+##🔭 Atualmente estou cursando Análise e Desenvolvimento de Sistemas
 
 <!--
 **lucasamadeuu/lucasamadeuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
