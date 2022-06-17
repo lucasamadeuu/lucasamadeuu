@@ -17,11 +17,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30" height="30"/></code>
           
 
-<h2 align="left">GitHub Stats:</h2>  
-<div>
-<a href="https://github.com/lucasamadeuu">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasamadeuu&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 <!--
 **lucasamadeuu/lucasamadeuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
