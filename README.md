@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117"/>&nbsp;
 <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117"/>&nbsp;
 <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>&nbsp;
+<img src="https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=REACT&logoColor=61DBFB&labelColor=0D1117"/>&nbsp;
    
 <!--
 **lucasamadeuu/lucasamadeuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
