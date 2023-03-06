@@ -13,10 +13,8 @@
   
 <h2 align="left">:desktop_computer: Tecnologias</h2>
 
-<img src="https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=yellow&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117"/>&nbsp;
-<img src="https://img.shields.io/badge/-REACT-0D1117?style=for-the-badge&logo=REACT&logoColor=61DBFB&labelColor=0D1117"/>&nbsp;
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,go,git)](https://skillicons.dev)
+
    
 <!--
 **lucasamadeuu/lucasamadeuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
