@@ -4,9 +4,6 @@
 <!-- Um slogan que descreve você -->
 ## Determinado a transformar ideias em realidade
 
-<!-- Uma foto sua ou de um avatar que represente você -->
-<img align="right" src="https://github.com/lucasamadeu.png" width="300" height="auto">
-
 <!-- Um parágrafo que descreve você -->
 Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP. Eu gosto de aprender coisas novas e estou sempre procurando maneiras de melhorar minhas habilidades de programação. Eu sou bom em comunicar e trabalhar em equipe, o que me ajuda a colaborar em projetos de sucesso.
 
