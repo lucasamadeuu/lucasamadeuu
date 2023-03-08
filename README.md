@@ -1,32 +1,21 @@
-<h1 align="center">Olá me chamo Lucas Amadeu
-<h4 align="center"> Bem-vindo ao meu perfil GitHub <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="15"><br>
+<!-- Seu nome -->
+# Olá, sou Lucas Amadeu <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">
 
-<h2 align="left">👨🏻‍💻 Sobre mim</h2>
-<p>
+<!-- Um slogan que descreve você -->
+## Determinado a transformar ideias em realidade
 
-      🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
-      
-      🚀 Sempre procurando evoluir no meio de Desenvolvimento 
-      
-      📫 Contato: lucas.amadeu.soares@gmail.com 
- </p>
-  
-<h2 align="left">:desktop_computer: Tecnologias</h2>
+<!-- Uma foto sua ou de um avatar que represente você -->
+<img align="right" src="https://github.com/lucasamadeu.png" width="300" height="auto">
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,go,git)](https://skillicons.dev)
+<!-- Um parágrafo que descreve você -->
+Atualmente estou estudando Análise e Desenvolvimento de Sistemas na FIAP. Eu gosto de aprender coisas novas e estou sempre procurando maneiras de melhorar minhas habilidades de programação. Eu sou bom em comunicar e trabalhar em equipe, o que me ajuda a colaborar em projetos de sucesso.
 
-   
-<!--
-**lucasamadeuu/lucasamadeuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Habilidades e ferramentas que você domina -->
+## 🚀 Tecnologias que eu domino 
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,go,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Contato -->
+## Contato
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="20" height="20"> LinkedIn: [Lucas Amadeu](https://www.linkedin.com/in/lucas-amadeuu/) <br>
+📫 E-mail: lucas.amadeu.soares@gmail.com
