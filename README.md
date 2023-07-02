@@ -13,4 +13,4 @@
   
 <h2 align="left">:desktop_computer: Tecnologias que eu domino</h2>
 
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,go,git)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,go,git)](https://skillicons.dev)
