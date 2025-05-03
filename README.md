@@ -4,7 +4,7 @@
 <h2 align="left">👨🏻‍💻 Sobre mim</h2>
 <p>
 
-      🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas 
+      🌱 Formado em Análise e Desenvolvimento de Sistemas 
       
       🚀 Sempre procurando evoluir no meio de Desenvolvimento 
       
